@@ -25,7 +25,7 @@ public class ExcelDataToObjectsApplication {
 		int columnTotal = 0;
 		try {
 
-			FileInputStream file = new FileInputStream(new File("C:\\Users\\vladimir.cvjetkovic\\Desktop\\emps.xlsx"));
+			FileInputStream file = new FileInputStream(new File("C:\\Users\\user\\Desktop\\emps.xlsx"));
 
 			// Create Workbook instance holding reference to .xlsx file
 			XSSFWorkbook workbook = new XSSFWorkbook(file);
