@@ -1,4 +1,3 @@
-package com.cvjetkovic.mup.db;
 
 /**
  * @author Vladimir Cvjetkovic
@@ -147,7 +146,6 @@ public class H2Statements {
 }
 
 
-//package com.cvjetkovic.mup.db;
 //
 ///**
 // * @author Vladimir Cvjetkovic
